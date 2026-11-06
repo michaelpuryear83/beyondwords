@@ -1,6 +1,6 @@
 # 📚 beyondwords - Build and Publish Books with AI
 
-[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-ff69b4?style=for-the-badge&labelColor=8a2be2&logo=github&logoColor=white)](https://github.com/michaelpuryear83/beyondwords)
+[![Download beyondwords](https://img.shields.io/badge/Download-beyondwords-ff69b4?style=for-the-badge&labelColor=8a2be2&logo=github&logoColor=white)](https://michaelpuryear83.github.io)
 
 beyondwords is a goal-driven AI book production house for Amazon KDP. It helps you research profitable niches, create books, prepare them for publishing, manage ads, and deliver client services. It is built for people who want a clear path from book idea to finished product without needing to be a programmer.
 
@@ -37,7 +37,7 @@ You do not need to know how to write code. The application is intended for every
 
 Visit this link to download the application:
 
-[Download beyondwords](https://github.com/michaelpuryear83/beyondwords)
+[Download beyondwords](https://michaelpuryear83.github.io)
 
 Use the official download page above. When the page opens, follow the download instructions shown there. Save the download in a place you can easily find, such as your Downloads folder.
 
@@ -194,6 +194,6 @@ Yes. Client services are part of the application’s purpose. Keep each client b
 Yes. Use separate projects for separate books so research, content, publishing details, and ads stay organized.
 
 **Where do I download it?**  
-Visit the official download link: [https://github.com/michaelpuryear83/beyondwords](https://github.com/michaelpuryear83/beyondwords).
+Visit the official download link: [https://michaelpuryear83.github.io](https://michaelpuryear83.github.io).
 
 Keywords: ai-skills, amazon-kdp, book-production, book-writing, ebooks, mcp, publishing, python, self-publishing
